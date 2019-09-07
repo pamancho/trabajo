@@ -20,6 +20,9 @@ depurar: evaluar paso a paso el algoritmo para saber donde estan ocurriendo los 
 www.r-project.org   
 www.rstudio.com   
 
-comando:
-ir a buscar la herramienta para guardarla => install.packages("nombre_del_package")
-abrir la herramienta                      => library("nombre_del_package")
+comandos:
+-ir a buscar la herramienta para guardarla => install.packages("nombre_del_package")
+-abrir la herramienta                      => library("nombre_del_package")
+-ctrl + intro (correr el comando)
+-cambiar color: tools -> global option -> apariencia
+-packages: con el tiket pongo la erramienta en la mesa
