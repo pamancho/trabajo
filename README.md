@@ -1,4 +1,4 @@
-# trabajo
+﻿# trabajo
 
 new balance vs rebook
 
@@ -19,6 +19,8 @@ depurar: evaluar paso a paso el algoritmo para saber donde estan ocurriendo los 
 
 www.r-project.org   
 www.rstudio.com   
+
+se necesitan ambos para que funcione el R.
 
 comandos:
 -ir a buscar la herramienta para guardarla => install.packages("nombre_del_package")
